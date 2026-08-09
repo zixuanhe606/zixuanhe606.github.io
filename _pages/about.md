@@ -17,21 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an ScM student in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health. My thesis, advised by Dr. Jung-Im Shin, examines potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I previously earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
+I am a Research Data Analyst at the Johns Hopkins University School of Public Health, working with Dr. Jing Sun on infectious disease and long-term health outcomes. I recently completed my ScM in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health, where my thesis, advised by Dr. Jung-Im Shin, examined potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
 
 My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods to questions about medications, chronic disease, and aging. Across projects I have worked on environmental exposures and dementia risk, the joint effects of insomnia and depression on cognition, and drug&ndash;disease relationships studied through Mendelian randomization.
 
 <a href='https://scholar.google.com/citations?user=kYO1t_8AAAAJ'>My Google Scholar citations <strong><span id='total_cit'>0</span></strong></a>.
 
 # News
+- *2026.06*: Joined Dr. Jing Sun's group as a full-time Research Data Analyst at Johns Hopkins.
 - *2026.06*: Presenting at the APSS Annual Meeting (Sleep) in Baltimore.
+- *2026.05*: Graduated with an ScM in Epidemiology from the Johns Hopkins Bloomberg School of Public Health.
 - *2026.03*: Poster at the AHA EPI\|Lifestyle Scientific Sessions, Boston.
 - *2026.01*: Co-first-author paper on depressive and insomnia symptoms and dementia published in *Journal of Affective Disorders*.
 - *2025.11*: Presented at the Gerontological Society of America (GSA) Annual Meeting.
 - *2025.08*: Posters at the ISPE 41st Annual Meeting (Washington, DC) and the IQVIA Institute Research Forum (Boston).
-- *2025.02*: Started my ScM thesis with Dr. Jung-Im Shin.
 
 # Publications
+
+**Peer-reviewed**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Affect Disord 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,8 +51,17 @@ Shanshan Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Chenxi Wang, 
 - [Current situation and research progress of health communication in rural areas of China](#), Y. Zheng, Y. Wang, Y. Liu, **Zixuan He**, et al., *Health Education and Health Promotion*, 2022
 - [Analysis of the current health-communication modes in rural areas of Chongqing](#), **Zixuan He**, Y. Wang, et al., *Chinese Journal of Health Education*, 2022
 
+**Manuscripts in preparation**
+
+- **Potential Overtreatment of Older Adults with Diabetes and Dementia: A Matched Cohort Study Using Real-World Data.** **Zixuan He**, C. Dun, M. Fang, S. Pilla, J. Echouffo-Tcheugui, E. Selvin, J.-I. Shin.
+- **HIV and Aging Are Associated with Cardiovascular&ndash;Kidney&ndash;Metabolic Syndrome Burden Among Persons Who Inject Drugs.** V. Baylon-Valdez, **Zixuan He**, K. Feder, S. Wei, J. Astemborski, Y. Jiang, D. A. Piggott, S. Mehta, G. Kirk, J. Sun.
+- **The Minority Pet-Owner Health Project (MPOH): A pilot study on demographic disparities, racism, and the human&ndash;animal bond in minority mental health.**
+
+# Experience
+- *2026.06 - Present*, Research Data Analyst, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
+
 # Education
-- *2024.08 - 2026.06*, ScM in Epidemiology (GEM track), Johns Hopkins University. GPA 3.95/4.0.
+- *2024.08 - 2026.05*, ScM in Epidemiology (GEM track), Johns Hopkins University. GPA 3.95/4.0.
 - *2019.09 - 2024.07*, Bachelor of Medicine (Preventive Medicine) & BA (Medical English), Chongqing Medical University.
 
 # Conferences & Presentations
@@ -60,4 +72,11 @@ Shanshan Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Chenxi Wang, 
 - *2025.08*, IQVIA Institute Research Forum: High-risk concomitant medications and cognitive/fall adverse events (FAERS, poster) &mdash; Boston, MA.
 
 # Teaching
-- Teaching Assistant, JHU Bloomberg School of Public Health: Epidemiologic Inference I; Principles of Epidemiology; Spatial Analysis I (ArcGIS); Epidemiologic Methods; Pharmacoepidemiology Methods; Epidemiology of Diabetes & Obesity.
+Teaching Assistant, Johns Hopkins Bloomberg School of Public Health:
+
+- **Epidemiologic Inference in Public Health I** *(Jun&ndash;Jul 2025)* &mdash; Supported instruction on core epidemiologic methods, including study design, causal inference, risk estimation, and surveillance system evaluation.
+- **Principles of Epidemiology** *(Jul&ndash;Aug 2025)* &mdash; Supported instruction on disease investigation and study designs (RCT, cohort, case-control); helped students apply epidemiologic methods to outbreak scenarios and interpret research and evaluation metrics.
+- **Spatial Analysis I: ArcGIS** *(Aug&ndash;Oct 2025)* &mdash; Assisted with ArcGIS Pro for spatial data manipulation, geocoding, and public-health map creation; supported labs on spatial data structures, topology, and thematic mapping.
+- **Epidemiologic Methods** *(2nd term, AY 2025&ndash;26)* &mdash; Supported the second course in the Epidemiologic Methods sequence, covering causal inference, study design, and threats to validity (confounding, information and selection bias).
+- **Pharmacoepidemiology Methods** *(2nd term, AY 2025&ndash;26)* &mdash; Supported a course on drug utilization and effects, drug safety and effectiveness, and clinical-epidemiology methods applied to pharmacology; co-led weekly TA office hours.
+- **Epidemiology of Diabetes and Obesity** *(4th term, AY 2025&ndash;26)* &mdash; Supported a course on the epidemiology and prevention of diabetes, obesity, and associated complications, including global trends, risk factors, and interventions.
