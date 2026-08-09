@@ -10,20 +10,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Data Analyst at the Johns Hopkins University School of Public Health, working with Dr. Jing Sun on infectious disease and long-term health outcomes. I recently completed my ScM in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health, where my thesis, advised by Dr. Jung-Im Shin, examined potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
+I am a Research Data Analyst at the Johns Hopkins University School of Public Health, working with Dr. [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun) on infectious disease and long-term health outcomes. I recently completed my ScM in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health, where my thesis, advised by Dr. [Jung-Im Shin](https://publichealth.jhu.edu/faculty/3750/jung-im-shin), examined potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
 
-My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods to questions about medications, chronic disease, and aging. Across projects I have worked on environmental exposures and dementia risk, the joint effects of insomnia and depression on cognition, and drug&ndash;disease relationships studied through Mendelian randomization.
+My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods. I am especially interested in chronic disease &mdash; particularly diabetes and cardiovascular&ndash;kidney&ndash;metabolic (CKM) syndrome &mdash; and how it intersects with aging and cognition. I have also worked with Dr. Junxin Li on environmental exposures, sleep, and dementia risk, and with Dr. Meghan Davis and Dr. Sharmaine Miller on the Minority Pet-Owner Health Project.
 
 Full list of publications on my [Google Scholar](https://scholar.google.com/citations?user=kYO1t_8AAAAJ) profile.
 
-# News
+<span class='anchor' id='news'></span>
+
+# 🔥 News
 - *2026.06*: Joined Dr. Jing Sun's group as a full-time Research Data Analyst at Johns Hopkins.
 - *2026.05*: Graduated with an ScM in Epidemiology from the Johns Hopkins Bloomberg School of Public Health.
 - *2026.03*: Poster at the AHA Epidemiology and Prevention \| Lifestyle and Cardiometabolic Health Scientific Sessions, Boston &mdash; "Potential overtreatment of older adults with diabetes and dementia: a real-world study."
 - *2026.01*: Co-first-author paper on depressive and insomnia symptoms and dementia published in *Journal of Affective Disorders*.
 - *2025.11*: Presented at the Gerontological Society of America (GSA) Annual Meeting.
 
-# Publications
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications
 
 **Peer-reviewed**
 
@@ -58,18 +62,29 @@ Sofia Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Claire Wang, Xia
 - **HIV and aging are associated with cardiovascular&ndash;kidney&ndash;metabolic syndrome burden among persons who inject drugs.** V. Baylon-Valdez, **Zixuan He**, K. Feder, S. Wei, J. Astemborski, Y. Jiang, D. A. Piggott, S. Mehta, G. Kirk, J. Sun.
 - **The Minority Pet-Owner Health Project (MPOH): a pilot study on demographic disparities, racism, and the human&ndash;animal bond in minority mental health.**
 
-# Experience
-- *2026.06 - Present*, Research Data Analyst, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
-- *2026.04 - 2026.06*, Data Analysis Research Assistant, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
-- *2025.12 - 2026.06*, Biostatistics Research Assistant, Johns Hopkins University, School of Public Health (PIs: Meghan F. Davis, PhD, MPH, DVM; Sharmaine Miller, PhD). Baltimore, MD.
-- *2024.07 - 2026.05*, Data Analysis Research Assistant, Johns Hopkins University, School of Nursing (PI: Junxin Li, PhD, MS, RN). Baltimore, MD.
+<span class='anchor' id='experience'></span>
 
-# Education
+# 💼 Experience
+- *2026.06 - Present*, **Research Data Analyst**, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
+- *2026.04 - 2026.06*, **Data Analysis Research Assistant**, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
+- *2025.12 - 2026.06*, **Biostatistics Research Assistant**, Johns Hopkins University, School of Public Health (PIs: Meghan F. Davis, PhD, MPH, DVM; Sharmaine Miller, PhD). Baltimore, MD. &mdash; *The Minority Pet-Owner Health Project.*
+  - Led quantitative analyses examining racial discrimination, pet ownership, and mental health.
+  - Built a reproducible R/Stata pipeline for the pet-ownership stress-buffering hypothesis across racial/ethnic groups.
+  - Provided statistical consultation on modeling strategy, including interaction and race-stratified regression and distributional diagnostics.
+- *2024.07 - 2026.05*, **Data Analysis Research Assistant**, Johns Hopkins University, School of Nursing (PI: Junxin Li, PhD, MS, RN). Baltimore, MD.
+  - *Environmental exposures, sleep, and dementia risk (UK Biobank):* built an environmental burden index (air pollution, noise, green space, sunlight, water quality, ALAN) and ran exposure&ndash;response analyses using longitudinal models, competing-risks survival, PCA/LPA, and mediation.
+  - *Insomnia, depression, and dementia risk (NHATS):* designed a longitudinal cohort and modeled time-varying symptom patterns with Cox regression; presented findings as co-author at GSA 2025.
+
+<span class='anchor' id='education'></span>
+
+# 🎓 Education
 - *2024.08 - 2026.05*, ScM in Epidemiology (GEM track), Johns Hopkins University. GPA 3.95/4.0.
   - Coursework: Methods in Biostatistics I&ndash;IV; Epidemiologic Methods I&ndash;III; Principles of Drug Development; Clinical Trials; Pharmacoepidemiology; Drug Utilization; SAS for Statisticians; Health Economics; Infectious Disease Dynamics; Causal Inference; Diabetes and Obesity Epidemiology; Advanced Methods for the Design and Analysis of Cohort Studies; Economic Evaluation; Spatial Analysis; Data Science for Public Health in Python.
 - *2019.09 - 2024.07*, Bachelor of Medicine (Preventive Medicine) & BA (Medical English), Chongqing Medical University.
 
-# Teaching
+<span class='anchor' id='teaching'></span>
+
+# 🧑‍🏫 Teaching
 Teaching Assistant, Johns Hopkins Bloomberg School of Public Health:
 
 - **Epidemiologic Inference in Public Health I** *(Jun&ndash;Jul 2025)* &mdash; Supported instruction on core epidemiologic methods, including study design, causal inference, risk estimation, and surveillance system evaluation.
