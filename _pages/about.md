@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an ScM student in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health. My thesis, advised by Dr. Jung-Im Shin, examines potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I previously earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods to questions about medications, chronic disease, and aging. Across projects I have worked on environmental exposures and dementia risk, the joint effects of insomnia and depression on cognition, and drug&ndash;disease relationships studied through Mendelian randomization.
 
+<a href='https://scholar.google.com/citations?user=kYO1t_8AAAAJ'>My Google Scholar citations <strong><span id='total_cit'>0</span></strong></a>.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# News
+- *2026.06*: Presenting at the APSS Annual Meeting (Sleep) in Baltimore.
+- *2026.03*: Poster at the AHA EPI\|Lifestyle Scientific Sessions, Boston.
+- *2026.01*: Co-first-author paper on depressive and insomnia symptoms and dementia published in *Journal of Affective Disorders*.
+- *2025.11*: Presented at the Gerontological Society of America (GSA) Annual Meeting.
+- *2025.08*: Posters at the ISPE 41st Annual Meeting (Washington, DC) and the IQVIA Institute Research Forum (Boston).
+- *2025.02*: Started my ScM thesis with Dr. Jung-Im Shin.
 
-# 📝 Publications 
+# Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Affect Disord 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Depressive and insomnia symptoms and incident dementia risk: a 12-year study in U.S. older adults](https://scholar.google.com/citations?user=kYO1t_8AAAAJ)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shanshan Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Chenxi Wang, Xu Liu, Nada Lukkahatai, Junxin Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Journal of Affective Disorders*, 410, 121965 (2026). <sup>&dagger;</sup> co-first author.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Implementation of popular-science activities in emergency education of out-of-hospital CPR](#), **Zixuan He**, Y. Wang, et al., *Health Medicine Research and Practice*, 2023
+- [Current situation and research progress of health communication in rural areas of China](#), Y. Zheng, Y. Wang, Y. Liu, **Zixuan He**, et al., *Health Education and Health Promotion*, 2022
+- [Analysis of the current health-communication modes in rural areas of Chongqing](#), **Zixuan He**, Y. Wang, et al., *Chinese Journal of Health Education*, 2022
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Education
+- *2024.08 - 2026.06*, ScM in Epidemiology (GEM track), Johns Hopkins University. GPA 3.95/4.0.
+- *2019.09 - 2024.07*, Bachelor of Medicine (Preventive Medicine) & BA (Medical English), Chongqing Medical University.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Conferences & Presentations
+- *2026.06*, APSS (Sleep): Insomnia and depressive symptom patterns predict dementia incidence in community-dwelling older adults &mdash; Baltimore, MD.
+- *2026.03*, AHA EPI\|Lifestyle: Potential overtreatment of older adults with diabetes and dementia (poster) &mdash; Boston, MA.
+- *2025.11*, GSA 2025: Depressive and insomnia symptoms, memory decline, and dementia risk.
+- *2025.08*, ISPE 41st: Sertraline use and type 2 diabetes &mdash; real-world data and Mendelian randomization (poster) &mdash; Washington, DC.
+- *2025.08*, IQVIA Institute Research Forum: High-risk concomitant medications and cognitive/fall adverse events (FAERS, poster) &mdash; Boston, MA.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Teaching
+- Teaching Assistant, JHU Bloomberg School of Public Health: Epidemiologic Inference I; Principles of Epidemiology; Spatial Analysis I (ArcGIS); Epidemiologic Methods; Pharmacoepidemiology Methods; Epidemiology of Diabetes & Obesity.
