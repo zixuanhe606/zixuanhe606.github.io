@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Research Data Analyst at the Johns Hopkins University School of Public Health, working with Dr. [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun) on infectious disease and long-term health outcomes. I recently completed my ScM in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health, where my thesis, advised by Dr. [Jung-Im Shin](https://publichealth.jhu.edu/faculty/3750/jung-im-shin), examined potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
 
-My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods. I am especially interested in chronic disease &mdash; particularly diabetes and cardiovascular&ndash;kidney&ndash;metabolic (CKM) syndrome &mdash; and how it intersects with aging and cognition. I have also worked with Dr. Junxin Li on environmental exposures, sleep, and dementia risk, and with Dr. Meghan Davis and Dr. Sharmaine Miller on the Minority Pet-Owner Health Project.
+My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods. I am especially interested in chronic disease &mdash; particularly diabetes and cardiovascular&ndash;kidney&ndash;metabolic (CKM) syndrome &mdash; and how it intersects with aging and cognition. I have also worked with Dr. [Junxin Li](https://nursing.jhu.edu/faculty-research/faculty/directory/junxin-li/) on environmental exposures, sleep, and dementia risk, and with Dr. [Meghan Davis](https://publichealth.jhu.edu/faculty/3059/meghan-frost-davis) and Dr. [Sharmaine Miller](https://scholar.google.com/citations?user=8oBKF7MAAAAJ&hl=en) on the Minority Pet-Owner Health Project.
 
 Full list of publications on my [Google Scholar](https://scholar.google.com/citations?user=kYO1t_8AAAAJ) profile.
 
@@ -65,15 +65,10 @@ Sofia Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Claire Wang, Xia
 <span class='anchor' id='experience'></span>
 
 # 💼 Experience
-- *2026.06 - Present*, **Research Data Analyst**, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
-- *2026.04 - 2026.06*, **Data Analysis Research Assistant**, Johns Hopkins University, School of Public Health (PI: Jing Sun, MD, PhD, MPH). Baltimore, MD.
-- *2025.12 - 2026.06*, **Biostatistics Research Assistant**, Johns Hopkins University, School of Public Health (PIs: Meghan F. Davis, PhD, MPH, DVM; Sharmaine Miller, PhD). Baltimore, MD. &mdash; *The Minority Pet-Owner Health Project.*
-  - Led quantitative analyses examining racial discrimination, pet ownership, and mental health.
-  - Built a reproducible R/Stata pipeline for the pet-ownership stress-buffering hypothesis across racial/ethnic groups.
-  - Provided statistical consultation on modeling strategy, including interaction and race-stratified regression and distributional diagnostics.
-- *2024.07 - 2026.05*, **Data Analysis Research Assistant**, Johns Hopkins University, School of Nursing (PI: Junxin Li, PhD, MS, RN). Baltimore, MD.
-  - *Environmental exposures, sleep, and dementia risk (UK Biobank):* built an environmental burden index (air pollution, noise, green space, sunlight, water quality, ALAN) and ran exposure&ndash;response analyses using longitudinal models, competing-risks survival, PCA/LPA, and mediation.
-  - *Insomnia, depression, and dementia risk (NHATS):* designed a longitudinal cohort and modeled time-varying symptom patterns with Cox regression; presented findings as co-author at GSA 2025.
+- *2026.06 - Present*, **Research Data Analyst**, Johns Hopkins University, School of Public Health (PI: [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun), MD, PhD, MPH). Baltimore, MD.
+- *2026.04 - 2026.06*, **Data Analysis Research Assistant**, Johns Hopkins University, School of Public Health (PI: [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun), MD, PhD, MPH). Baltimore, MD.
+- *2025.12 - 2026.06*, **Biostatistics Research Assistant**, Johns Hopkins University, School of Public Health (PIs: [Meghan F. Davis](https://publichealth.jhu.edu/faculty/3059/meghan-frost-davis), PhD, MPH, DVM; [Sharmaine Miller](https://scholar.google.com/citations?user=8oBKF7MAAAAJ&hl=en), PhD). Baltimore, MD.
+- *2024.07 - 2026.05*, **Data Analysis Research Assistant**, Johns Hopkins University, School of Nursing (PI: [Junxin Li](https://nursing.jhu.edu/faculty-research/faculty/directory/junxin-li/), PhD, MS, RN). Baltimore, MD.
 
 <span class='anchor' id='education'></span>
 
