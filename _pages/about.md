@@ -19,7 +19,7 @@ Full list of publications on my [Google Scholar](https://scholar.google.com/cita
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.06*: Joined Dr. Jing Sun's group as a full-time Research Data Analyst at Johns Hopkins.
+- *2026.06*: Joined Dr. Jing Sun's group as a Research Data Analyst at Johns Hopkins.
 - *2026.05*: Graduated with an ScM in Epidemiology from the Johns Hopkins Bloomberg School of Public Health.
 - *2026.03*: Poster at the AHA Epidemiology and Prevention \| Lifestyle and Cardiometabolic Health Scientific Sessions, Boston &mdash; "Potential overtreatment of older adults with diabetes and dementia: a real-world study."
 - *2026.01*: Co-first-author paper on depressive and insomnia symptoms and dementia published in *Journal of Affective Disorders*.
