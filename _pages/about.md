@@ -12,14 +12,14 @@ redirect_from:
 
 I am a Research Data Analyst at the Johns Hopkins University School of Public Health, working with Dr. [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun) on infectious disease and long-term health outcomes. I recently completed my ScM in Epidemiology (General Epidemiology and Methodology track) at the Johns Hopkins Bloomberg School of Public Health, where my thesis, advised by Dr. [Jung-Im Shin](https://publichealth.jhu.edu/faculty/3750/jung-im-shin), examined potential overtreatment of diabetes in older adults after a dementia diagnosis using real-world electronic health record (EHR) data. I earned a Bachelor of Medicine in Preventive Medicine and a BA in Medical English at Chongqing Medical University.
 
-My research centers on pharmacoepidemiology, chronic disease, HIV, and aging. Across aging, minority, and HIV-affected populations, I use real-world data—especially electronic health records (EHRs)—to study medication use, disease progression, multimorbidity, and long-term health outcomes.I have also worked with Dr. [Junxin Li](https://nursing.jhu.edu/faculty-research/faculty/directory/junxin-li/) on environmental exposures, sleep, and dementia risk, and with Dr. [Meghan Davis](https://publichealth.jhu.edu/faculty/3059/meghan-frost-davis) and Dr. [Sharmaine Miller](https://scholar.google.com/citations?user=8oBKF7MAAAAJ&hl=en) on the Minority Pet-Owner Health Project.
+My research centers on pharmacoepidemiology and real-world evidence: building careful observational cohorts and applying causal-inference, survival, and competing-risks methods. I am especially interested in chronic disease &mdash; particularly diabetes and cardiovascular&ndash;kidney&ndash;metabolic (CKM) syndrome &mdash; and how it intersects with aging and cognition. I have also worked with Dr. [Junxin Li](https://nursing.jhu.edu/faculty-research/faculty/directory/junxin-li/) on environmental exposures, sleep, and dementia risk, and with Dr. [Meghan Davis](https://publichealth.jhu.edu/faculty/3059/meghan-frost-davis) and Dr. [Sharmaine Miller](https://scholar.google.com/citations?user=8oBKF7MAAAAJ&hl=en) on the Minority Pet-Owner Health Project.
 
 Full list of publications on my [Google Scholar](https://scholar.google.com/citations?user=kYO1t_8AAAAJ) profile.
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.06*: Joined Dr. Jing Sun's group as a Research Data Analyst at Johns Hopkins.
+- *2026.06*: Joined Dr. Jing Sun's group as a full-time Research Data Analyst at Johns Hopkins.
 - *2026.05*: Graduated with an ScM in Epidemiology from the Johns Hopkins Bloomberg School of Public Health.
 - *2026.03*: Poster at the AHA Epidemiology and Prevention \| Lifestyle and Cardiometabolic Health Scientific Sessions, Boston &mdash; "Potential overtreatment of older adults with diabetes and dementia: a real-world study."
 - *2026.01*: Co-first-author paper on depressive and insomnia symptoms and dementia published in *Journal of Affective Disorders*.
@@ -39,6 +39,17 @@ Full list of publications on my [Google Scholar](https://scholar.google.com/cita
 Sofia Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Claire Wang, Xiaoyue Liu, Nada Lukkahatai, Junxin Li
 
 - *Journal of Affective Disorders*, 410, 121965 (2026). <sup>&dagger;</sup> co-first author.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int J Behav Nutr Phys Act 2025</div><img src='images/intbehav.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The global, regional, and national burden of type 2 diabetes mellitus attributable to low physical activity from 1990 to 2021: a systematic analysis of the Global Burden of Disease Study 2021](https://link.springer.com/article/10.1186/s12966-025-01709-8)
+
+Jiehua Wei<sup>&dagger;</sup>, Luying Fan<sup>&dagger;</sup>, **Zixuan He**, Senmao Zhang, Ying Zhang, Xidi Zhu, Fan Xia, Xinli Song, Lizhang Chen, Zhiyong Zou, Tingting Wang
+
+- *International Journal of Behavioral Nutrition and Physical Activity*, 22, 8 (2025). <sup>&dagger;</sup> equal contribution.
 </div>
 </div>
 
