@@ -49,7 +49,7 @@ Sofia Liu<sup>&dagger;</sup>, **Zixuan He**<sup>&dagger;</sup>, Claire Wang, Xia
 
 Jiehua Wei<sup>&dagger;</sup>, Luying Fan<sup>&dagger;</sup>, **Zixuan He**, Senmao Zhang, Ying Zhang, Xidi Zhu, Fan Xia, Xinli Song, Lizhang Chen, Zhiyong Zou, Tingting Wang
 
-- *International Journal of Behavioral Nutrition and Physical Activity*, 22, 8 (2025). <sup>&dagger;</sup> equal contribution.
+- *International Journal of Behavioral Nutrition and Physical Activity*, 22, 8 (2025). <sup>&dagger.
 </div>
 </div>
 
